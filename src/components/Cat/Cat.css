@@ -1,0 +1,10 @@
+.cat-img {
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+	background-image: url('../../img/cat.svg');
+	position: absolute;
+}

@@ -1,10 +1,10 @@
-import Title from './components/Title/Title.js';
+import Board from './components/Board/Board.jsx';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <Title />
+      <Board />
     </div>
   );
 }
